@@ -824,6 +824,7 @@ Footer section
 .footer-logo {
 	display: inline-block;
 	margin-bottom: 50px;
+	width: 15%;
 }
 
 .footer-widget {
