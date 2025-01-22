@@ -448,6 +448,7 @@ Header section
 	float: left;
 	display: inline-block;
 	padding: 33px 0;
+	width: 30%;
 }
 
 .main-menu {
